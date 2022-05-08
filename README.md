@@ -1,6 +1,6 @@
 # neural-network-optimizers
 The proposition of this project was to study and implement from scratch the most commons and efficient neural network optimizers:
- - Dropout;
+ - L2 regularization + Dropout;
  - Momentum optimizer;<br/>
 ![Cost function](https://github.com/glucard/neural-network-optimizers/blob/main/src/predictions_mini_batch_momentum_optimizer/_cost_function_graph_0.0024936141180071604.png)
  - RMSprop;<br/>
